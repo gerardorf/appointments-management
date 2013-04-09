@@ -1,4 +1,4 @@
 appointments-management
 =======================
 
-Play 2 framework based appointments management application
+Play 2.1 framework based appointments management application
